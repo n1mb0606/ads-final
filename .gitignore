@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+cache/
+dataset/
+runs/
+vitb16_weights
+*.png
+dinov3/
